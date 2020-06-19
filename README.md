@@ -1,4 +1,4 @@
 # smart_parking
-This is where we store our project.
-We can focus and work on each aspect of our system until we are satisfied with our code.
-Once we had completed our part without making any error, we can push and combine the code to this central server.
+This is the final project file or main remote repository.
+Other branches is just sub-repository that each of us are working on.
+We only push the code from the "Integrate" branches  to here when it works fine.
