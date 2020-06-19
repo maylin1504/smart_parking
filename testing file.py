@@ -1,1 +1,0 @@
-print("hello guys. this a stupid python file")
